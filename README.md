@@ -2,7 +2,7 @@
 
 ## Domain 
 
-The project is a content based machine learning movie recommender system that uses the attributes and features of the movie in concern and finds the one closes to it. 
+The project is a 
 
 ## Idea
 
@@ -13,7 +13,7 @@ Recommender systems produce a list of recommendations in any of the two ways –
 
 ## Description of the codebase
  
-<img src="Screenshot%20(177).png" width="250" height="250"> <img src="Screenshot%20(178).png" width="250" height="250">
+<img src="Screenshot%20(655).png" width="250" height="250"> <img src="Screenshot%20(657).png" width="250" height="250">  <img src="Screenshot%20(661).png" width="250" height="250">
        
 The code is well arranged into sub-directories which are -
 1. The first page is the ```Frontend``` which comes up once you run the code.
